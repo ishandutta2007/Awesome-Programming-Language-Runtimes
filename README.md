@@ -97,7 +97,7 @@ The following hosted managed compute platforms provide fully configured runtime 
 
 The open-source ecosystem provides developers with transparent compilation internals, customizable memory collectors, and drop-in execution alternatives.
 
-> Sorted descending by **GitHub Stars_Count**. Every Stars_Badge links directly to the repository's live stargazers page.
+> Sorted descending by **GitHub_Stars_Count**. Every Stars_Badge links directly to the repository's live stargazers page.
 
 ---
 
