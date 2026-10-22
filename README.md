@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Programming-Language-Runtimes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Programming-Language-Runtimes?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Programming-Language-Runtimes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Programming-Language-Runtimes?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Programming-Language-Runtimes/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Programming-Language-Runtimes?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Programming-Language-Runtimes/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -97,7 +97,7 @@ The following hosted managed compute platforms provide fully configured runtime 
 
 The open-source ecosystem provides developers with transparent compilation internals, customizable memory collectors, and drop-in execution alternatives.
 
-> Sorted descending by **GitHub Star Count**. Every star badge links directly to the repository's live stargazers page.
+> Sorted descending by **GitHub Stars_Count**. Every Stars_Badge links directly to the repository's live stargazers page.
 
 ---
 
@@ -290,7 +290,7 @@ We welcome contributions from runtime engineers, systems architects, and open-so
 1. 🍴 **Fork the repository** to your GitHub profile.
 2. 🌿 **Create a new branch**: `git checkout -b feature/runtime-entry`.
 3. 📝 **Add or update an entry**: Ensure descriptions are factual, benchmark citations are verified, and valid pricing/free-tier constraints are documented.
-4. 🧪 **Check link integrity**: Verify all hyperlinks and star badges function properly.
+4. 🧪 **Check link integrity**: Verify all hyperlinks and Stars_Badges function properly.
 5. 🚀 **Submit a Pull Request**: Include a brief overview of changes and relevant reference sources.
 
 ---
