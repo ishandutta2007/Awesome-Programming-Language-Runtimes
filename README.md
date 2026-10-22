@@ -1,6 +1,6 @@
 # Awesome-Programming-Language-Runtimes
 
-## Top Programming Language Runtimes Ecosystem
+### Top Programming Language Runtimes Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on JIT Compilation, GIL Removal & Native Code Generation*  
@@ -91,7 +91,7 @@ Star the repo if you find it useful!
 Let's make programming language runtimes more open, performant, and workload-appropriate.
 # Awesome-Programming-Language-Runtimes
 
-# Top Programming Language Runtimes Ecosystem
+## Top Programming Language Runtimes Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on JIT Compilation, Adaptive Specialization & Native Code Generation*  
